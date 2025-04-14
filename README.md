@@ -49,3 +49,29 @@ So, I built a **Dynamic Q&A Web Application** — a platform where **anyone** ca
 
 Excited to improve this further! 🚀 Feedback is always welcome.  
 Drop a ⭐ if you found this project helpful!  
+
+
+## 🖼️ Screenshots
+
+1.**Home Page**
+
+![1](https://github.com/user-attachments/assets/b81ac7ad-d8b2-4e5b-ae87-03530bdba1a8)
+
+2.**Sign Up Page**
+
+![2](https://github.com/user-attachments/assets/a01fdc98-4e04-46c2-b3ad-c0f0f322dec3)
+
+3.**Login Page**
+
+![3](https://github.com/user-attachments/assets/aa333e1e-2074-4df9-a1f7-1ce6080cdfbe)
+
+4.**Ask Question Page**
+
+![4](https://github.com/user-attachments/assets/d6262af0-b7fb-4227-a53a-85d8adfed9eb)
+
+
+
+
+
+
+
