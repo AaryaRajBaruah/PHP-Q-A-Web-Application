@@ -49,7 +49,3 @@ So, I built a **Dynamic Q&A Web Application** — a platform where **anyone** ca
 
 Excited to improve this further! 🚀 Feedback is always welcome.  
 Drop a ⭐ if you found this project helpful!  
-
----
-
-Would you like to add a **Live Demo** or **Installation Guide** section? 😊
