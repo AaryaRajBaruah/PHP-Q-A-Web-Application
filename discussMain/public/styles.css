@@ -1,0 +1,36 @@
+nav{
+    background-color: rgba(147, 144, 144, 0.735) ;
+}
+
+.heading{
+    text-align: center;
+}
+.margin-bottom-15{
+    margin-bottom: 15px;
+}
+.question-list {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+   
+}
+.question-list h4{
+    margin: 0;
+    padding: 0;
+}
+.question-list a,.question-title {
+    font-size: 18px;
+    text-decoration: none;
+    color: #4b85b5 !important;
+}
+
+.answer-wrapper{
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.my-question{
+    display: flex;
+    justify-content: space-between;
+}
