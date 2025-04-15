@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Dynamic Q&A Web Application 🚀
+  🚀  PHP Dynamic Q&A Web Application 🚀
 </h1>
 
 <p align="center">
